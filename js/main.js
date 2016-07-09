@@ -14,7 +14,7 @@ function callclear(){
 }
 
 var add = function(x,y){
- return x+y;
+ return x+y; 
 }
 
 var subtract = function(x,y){
